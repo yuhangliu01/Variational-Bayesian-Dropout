@@ -2,11 +2,9 @@
 
 ## Overview
 
-This repository contains an implementation of "Variational Bayesian Dropout with a Hierarchical Prior" from the following paper:
+This repository contains an implementation of the following paper:
 
-**Variational Bayesian Dropout with a Hierarchical Prior** (CVPR 2019)
-- Authors: Yuhang Liu, Wenyong Dong, Lei Zhang, Dong Gong, Qinfeng Shi
-- Paper: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 7124-7133, 2019
+[**Variational Bayesian Dropout with a Hierarchical Prior**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Variational_Bayesian_Dropout_With_a_Hierarchical_Prior_CVPR_2019_paper.pdf) (CVPR 2019)
 
 ## Extensions
 
