@@ -12,11 +12,9 @@ This repository contains an implementation of "Variational Bayesian Dropout with
 
 This work has been extended to applications including:
 
-1. **Learning Bayesian Sparse Networks with Full Experience Replay for Continual Learning** (CVPR 2022)
-   - Paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Yan_Learning_Bayesian_Sparse_Networks_With_Full_Experience_Replay_for_Continual_CVPR_2022_paper.pdf
+1. [**Learning Bayesian Sparse Networks with Full Experience Replay for Continual Learning**](https://openaccess.thecvf.com/content/CVPR2022/papers/Yan_Learning_Bayesian_Sparse_Networks_With_Full_Experience_Replay_for_Continual_CVPR_2022_paper.pdf) (CVPR 2022)
 
-2. **Uncertainty estimation in HDR imaging with Bayesian neural networks**
-   - Paper: https://www.sciencedirect.com/science/article/pii/S0031320324005533
+2. [**Uncertainty estimation in HDR imaging with Bayesian neural networks**](https://www.sciencedirect.com/science/article/pii/S0031320324005533)
 
 ## Citation
 
